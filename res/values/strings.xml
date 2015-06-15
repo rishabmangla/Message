@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Message for 1mg</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_compose_message">Compose</string>
+    <string name="no_messages">No Messages</string>
+    <string name="title_activity_message_thread">Compose</string>
+
+</resources>
